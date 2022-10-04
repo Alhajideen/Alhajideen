@@ -1,7 +1,8 @@
 
 <h2> Hi, I'm Salifu Nurudeen! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
-<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://64.media.tumblr.com/90745e74ce8cd00b89f7d03370c67f40/9e262ae8cfde02ea-c0/s500x750/e7afbc1acce301cc47f85ebe5a8dc84ed6d9d633.gif" width="50"></p>
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+<p><em>Remote Full-stack web developer ready for adventure</em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Salifu%20Nurudeen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/nurudeen-salifu-776753244/)
 [![Twitter Badge](https://img.shields.io/badge/-@alhaji_deen1_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/Alhaji_deen1)
